@@ -28,7 +28,7 @@ Este projeto foi desenvolvido durante a Semana do Canal Pythonando, sendo o prim
 <br>
 
 <p align="center">
-  <img src=".github/psw1.png" alt="Campos">
+  <img src="psw1.png" alt="Campos">
 </p>
 
 ## Tecnologias
