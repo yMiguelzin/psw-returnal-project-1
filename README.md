@@ -46,7 +46,7 @@ A seguinte tecnologia foi utilizada no desenvolvimento do projeto psw 1:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/yMiguelzin/Breadcrumbspsw-returnal-project-1.git
+$ git clone https://github.com/yMiguelzin/psw-returnal-project-1.git
 # ou use a opção de download.
 
 # Acesse o projeto no Vs Code ou outra ide 
