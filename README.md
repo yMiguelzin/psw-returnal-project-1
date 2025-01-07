@@ -7,9 +7,6 @@
   <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-04D361?style=flat-square">
   </a>
-  <a href="https://github.com/yMiguelzin/psw-returnal-project-1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/yMiguelzin/psw-returnal-project-?color=04D361&style=flat-square">
-  </a>
 </p>
 
 ## Tópicos 
