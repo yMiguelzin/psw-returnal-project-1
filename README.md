@@ -42,8 +42,6 @@ A seguinte tecnologia foi utilizada no desenvolvimento do projeto psw 1:
 
 ## Instalação e uso
 
-### API (Back-end)
-
 ```bash
 # Abra um terminal e copie este repositório com o comando
 $ git clone https://github.com/yMiguelzin/psw-returnal-project-1.git
