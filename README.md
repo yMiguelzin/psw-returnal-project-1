@@ -82,4 +82,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Miguel Preto](https://github.com/yMiguelzin)
+Feito com 💚 por [Miguel Preto](https://github.com/yMiguelzin)
