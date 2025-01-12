@@ -31,6 +31,8 @@ Este projeto foi desenvolvido durante a Semana do Canal Pythonando, sendo o prim
   <img src="psw1.png" alt="Campos">
 </p>
 
+<br>
+
 ## Tecnologias
 
 A seguinte tecnologia foi utilizada no desenvolvimento do projeto psw 1:
@@ -42,32 +44,57 @@ A seguinte tecnologia foi utilizada no desenvolvimento do projeto psw 1:
 
 ## Instalação e uso
 
-```bash
-# Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/yMiguelzin/psw-returnal-project-1.git
-# ou use a opção de download.
+1. **Clone o repositório**:
 
-# Acesse o projeto no Vs Code ou outra ide 
+   Abra seu terminal e clone o repositório do projeto:
 
-#Ative o venv caso nunca rodou antes
+  ```bash
+  git clone https://github.com/yMiguelzin/psw-returnal-project-1.git
+  
+  ```
 
-#Ative
-# Linux
-source venv/bin/activate
-# Windows
-venv\Scripts\Activate
-# Caso algum comando retorne um erro de permissão execute o código e tente novamente:
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+2. **Ative o ambiente virtual (opcional, mas recomendado)**:
 
+  Navegue até a pasta do projeto e crie/ative um ambiente virtual:
 
-# Instale as dependências do SQLModel:
+  ```bash
+  Copiar código
+  
+  # Criar
+    
+  #Linux
+  python3 -m venv venv
+    
+  #Windows
+  python -m venv venv
+  ```
 
-$ pip install sqlmodel
-$ pip install matplotlib sqlmodel
+  Após a criação do venv vamos ativa-lo:
 
-```
+  ```bash
+  #Ativar
+  
+  #Linux
+  source venv/bin/activate
+  
+  #Windows
+  venv\Scripts\Activate
 
-<br>
+  # Caso algum comando retorne um erro de permissão execute o código e tente novamente:
+  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+  ```
+
+3. **Instale as dependências**:
+
+  Com o ambiente virtual ativo, instale todas as dependências necessárias:
+
+  ```bash
+  Copiar código
+  
+  pip install sqlmodel
+  pip install matplotlib sqlmodel
+  ```
 
 <br>
 
